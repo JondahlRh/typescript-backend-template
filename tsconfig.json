@@ -1,9 +1,6 @@
 {
   "extends": "@total-typescript/tsconfig/tsc/no-dom/app",
   "compilerOptions": {
-    "outDir": "build",
-
-    "baseUrl": "src",
-    "paths": {}
+    "outDir": "build"
   }
 }
